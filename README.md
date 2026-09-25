@@ -7,12 +7,13 @@ build a small set of **classes** that model genomic annotation records
 Structure of the session:
 1. **Classes and objects** (theory) → **Task 1**
 2. **Inheritance and polymorphism** (theory) → **Task 2**
-3. **Task 3** - a longer, harder task you work through
+3. **Task 3** - a longer task you work through
    independently, combining everything from Tasks 1 and 2.
 
 Write your own code from scratch in a single file, `oop_exercise.py`. 
-Commit and push your work to your assigned GitHub
-Classroom repository as you go (e.g. one commit per finished part).
+Fork this repository to your own GitHub account, clone your fork, and
+commit and push your work to it as you go (e.g. one commit per finished
+part).
 
 ---
 
